@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Donnée"
+        android:icon="@drawable/ic_baseline_data_usage_24"
+        android:id="@+id/donnée"/>
+    <item android:title="Map"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:id="@+id/map"/>
+</menu>
